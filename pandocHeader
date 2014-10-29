@@ -1,0 +1,23 @@
+---               
+title: 
+author:
+date:
+documentclass:
+    - scrartcl
+header-includes:
+    - \usepackage{paralist}
+    - \usepackage{booktabs}
+    - \usepackage{numprint, xspace, paralist}
+    - \usepackage{hyperref}
+    - \usepackage{cleveref}
+    - \usepackage[pdftex]{graphicx}
+    - \usepackage[utf8]{inputenc}
+    - \usepackage[T1]{fontenc}
+    - \usepackage{charter}
+    - \usepackage{fixltx2e}
+    - \usepackage[expert]{mathdesign}
+    - \usepackage{tgadventor}
+    - \usepackage[margin=0.8in]{geometry}
+    - \usepackage{microtype}
+    - \renewcommand*{\titlepagestyle}{empty}
+---
