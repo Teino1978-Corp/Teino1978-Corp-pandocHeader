@@ -12,12 +12,15 @@ header-includes:
     - \usepackage{cleveref}
     - \usepackage[pdftex]{graphicx}
     - \usepackage[utf8]{inputenc}
-    - \usepackage[T1]{fontenc}
-    - \usepackage{charter}
+    - \usepackage{XCharter}
+    - \usepackage{sourcecodepro}
     - \usepackage{fixltx2e}
     - \usepackage[expert]{mathdesign}
-    - \usepackage{tgadventor}
+    - \usepackage{bera}
+    - \usepackage[T1]{fontenc}
     - \usepackage[margin=0.8in]{geometry}
     - \usepackage{microtype}
+    - \usepackage{epigraph}
     - \renewcommand*{\titlepagestyle}{empty}
 ---
+\vspace{-10mm}
